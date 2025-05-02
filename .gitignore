@@ -1,0 +1,17 @@
+# Ignore system files and folders
+*.log
+*.xml
+*.mp4
+*.jpg
+*.png
+*.webp
+*.gif
+*.avi
+*.txt
+
+# Ignore directories related to system and IDE files
+.idea/
+.vscode/
+node_modules/
+.DS_Store
+Thumbs.db
